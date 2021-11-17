@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Python Programing language
 - 📫 How to reach me. My email adress: kozaczek.lukasz@wp.pl
 
+
+co to ja teraz zrobie sobie comita
+
 <!---
 Kozizok/Kozizok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
