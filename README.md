@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Kozizok
 - 👀 I’m interested a boardgames and a lot of DIY things
-- 🌱 I’m currently learning Python Programing language
+- 🌱 I’m currently learning Java Programing language
 - 📫 How to reach me. My email adress: kozaczek.lukasz@wp.pl
 
 
-co to ja teraz zrobie sobie comita
+
 
 <!---
 Kozizok/Kozizok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
